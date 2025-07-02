@@ -10,7 +10,7 @@ const projects = [
     title: "Real-time Hate Speech Detection on Social Media",
     description: "Fine-tuned DistilBERT on Twitter hate speech data, with Flask API for real-time sentence classification.",
     tech: ["Python", "Transformers", "Flask", "Scikit-learn", "Imbalanced-learn"],
-    github: "https://github.com/yourusername/hate-speech-detection",
+    github: "https://github.com/Abdurrehman-Afzal-Warraich/TwitterHateSpeech_Detection",
     live: null,
     keyHighlights: [
       "Trained DistilBERT on hate speech data using Hugging Face Transformers.",
@@ -23,7 +23,7 @@ const projects = [
     title: "Legal Document QA Bot",
     description: "A legal assistant bot using LangChain and ChromaDB for semantic search and question answering over PDFs.",
     tech: ["Python", "HuggingFace", "LangChain", "Streamlit"],
-    github: "https://github.com/yourusername/legal-qa-bot",
+    github: "https://github.com/Abdurrehman-Afzal-Warraich/Legal-Q-A-Bot",
     live: null,
     keyHighlights: [
       "Enabled PDF upload and embedding-based semantic search.",
@@ -36,7 +36,7 @@ const projects = [
     title: "AgroBoost (Final Year Project)",
     description: "A React Native mobile app ecosystem for farmers and buyers — crop prediction, auctions, and AgroCoin integration.",
     tech: ["React Native", "FastAPI", "MongoDB", "Firebase", "Solidity"],
-    github: "https://github.com/yourusername/agroboost-fyp",
+    github: "https://github.com/Abdurrehman-Afzal-Warraich/AgroBoost",
     live: null,
     keyHighlights: [
       "Crop yield prediction with ML, Firebase, and FastAPI.",
